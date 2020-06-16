@@ -13,7 +13,7 @@ Participants view 48 pairs of images of 3D shapes and respond (forced binary cho
 This experiment was built using _magpie.
 ## Running the experiment
 
-    Online Link: [Link](elastic-agnesi-378e94.netlify.app)
+    Online Link: [Link][elastic-agnesi-378e94.netlify.app]
 
     Offline: Clone the repository, run npm install and open index.html.
 
