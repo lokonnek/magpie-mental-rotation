@@ -14,7 +14,7 @@ This experiment was built using _magpie.
 ## Running the experiment
 
    Online Link:
-    [Link](https://elastic-agnesi-378e94.netlify.app/)
+    [Link](https://mentalrotationlokonnek.netlify.app/)
 
    Offline: Clone the repository, run npm install and open index.html.
 
