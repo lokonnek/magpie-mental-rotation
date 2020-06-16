@@ -11,7 +11,7 @@ Participants view 48 pairs of images of 3D shapes and respond (forced binary cho
 # _magpie
 
 This experiment was built using _magpie.
-Running the experiment
+## Running the experiment
 
     Online Link: EINFÜGEN
 
